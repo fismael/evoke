@@ -1,10 +1,6 @@
-<<<<<<< HEAD
+
 # evoque
 Evoke is a perfume recommendation app that uses AI to recommend perfumes based on your answers to a series of questions.
-=======
-# evoke
-
-This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
 
@@ -31,4 +27,3 @@ npm run dev
 ```sh
 npm run build
 ```
->>>>>>> 9fae0787b5a224c077f407b7f04a21ef7ccddb2c
