@@ -20,7 +20,15 @@ export default defineConfig({
   },
   build: {
     rollupOptions: {
-      external: [],  
-    }
+      external: [],
+      output: {
+        assetFileNames: 'assets/[name].[ext]',
+        assets: {
+          include: ['src/assets/**/*'],
+          exclude: []
+        }
+      }
+    },
+    assetsInlineLimit: 0 // Ensures all images are processed as assets
   }
 })

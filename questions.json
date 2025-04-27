@@ -3,48 +3,48 @@
     "key": "gender",
     "question": "¿Para quién es el perfume?",
     "options": ["Hombre", "Mujer", "Unisex"],
-    "image": "../src/assets/gender.png"
+    "image": "images/gender.png"
   },
   {
     "key": "personality",
     "question": "¿Cómo describirías la personalidad de quien usará el perfume?",
     "options": ["Elegante", "Extrovertido", "Romántico", "Misterioso", "Aventurero", "Minimalista"],
-    "image": "../src/assets/personality.png"
+    "image": "images/personality.png"
   },
   {
     "key": "season",
     "question": "¿En qué estación del año se usará principalmente?",
     "options": ["Primavera", "Verano", "Otoño", "Invierno"],
-    "image": "../src/assets/season.png"
+    "image": "images/season.png"
   },
   {
     "key": "daytime",
     "question": "¿Será un perfume para usar de día o de noche?",
     "options": ["Día", "Noche", "Ambos"],
-    "image": "../src/assets/daytime.png"
+    "image": "images/daytime.png"
   },
   {
     "key": "occasion",
     "question": "¿Qué tipo de ocasión quieres cubrir?",
     "options": ["Diario", "Oficial/Formal", "Citas románticas", "Eventos especiales", "Vacaciones"],
-    "image": "../src/assets/occasion.png"
+    "image": "images/occasion.png"
   },
   {
     "key": "notes",
     "question": "¿Qué tipos de aromas te gustan más?",
     "options": ["Cítricas", "Florales", "Amaderadas", "Orientales", "Dulces/Gourmand", "Verdes/Frescas", "Especiadas"],
-    "image": "../src/assets/notes.webp"
+    "image": "images/notes.webp"
   },
   {
     "key": "intensity",
     "question": "¿Qué intensidad prefieres?",
     "options": ["Suave", "Moderada", "Intensa"],
-    "image": "../src/assets/intensity.png"
+    "image": "images/intensity.png"
   },
   {
     "key": "concept",
     "question": "¿Hay algún concepto, imagen o inspiración que te gustaría que represente el perfume?",
     "options": [],
-    "image": "../src/assets/concept.png"
+    "image": "images/concept.png"
   }
 ]
