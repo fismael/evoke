@@ -36,10 +36,14 @@ const getPerfumeRecommendation = async () => {
       return `${question.question}: ${value}`
     }).join('\n')
 
-    const prompt = `Con base en las siguientes respuestas, recomiende una receta de perfume con ingredientes específicos y sus proporciones. 
-    Céntrese en ingredientes naturales y aceites esenciales. Incluya notas de fondo, notas medias y notas de salida. 
-    Además, proporcione una breve explicación de por qué se eligieron estos ingredientes. Usar un formato super amigable para un usuario de 10 años.
-    Use ** para resaltar palabras importantes como nombres de ingredientes, proporciones y términos técnicos usar mas emojis.
+    const prompt = `Con base en las siguientes respuestas, ¡ayuda a crear una receta de perfume súper divertida! 🌟 Usa **ingredientes naturales** y **aceites esenciales**. 
+Incluye **notas de salida**, **notas medias** y **notas de fondo**.
+- **Notas de salida**: las primeras impresiones del perfume que se sienten al aplicar.
+- **Corazon**: el corazón del perfume, lo que permanece después de las notas de salida.
+- **Notas de fondo**: la base que queda después de que el perfume se ha asentado.
+
+Recuerda dar una respuesta corta y concisa solo incluye las notas no digas nada mas
+ y que las palabras sean mas usadas y conocidas en el espanol de Republica Dominicana.
 
 Respuestas:
 ${formattedAnswers}`

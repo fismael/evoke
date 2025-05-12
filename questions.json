@@ -40,11 +40,5 @@
     "question": "¿Qué intensidad prefieres?",
     "options": ["Suave", "Moderada", "Intensa"],
     "image": "images/intensity.png"
-  },
-  {
-    "key": "concept",
-    "question": "¿Hay algún concepto, imagen o inspiración que te gustaría que represente el perfume?",
-    "options": [],
-    "image": "images/concept.png"
   }
 ]
