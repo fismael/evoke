@@ -7,7 +7,7 @@
         <div class="welcome-content">
             <h1>Bienvenido al Creador de Perfumes</h1>
             <p>
-              lalala Te haremos una serie de preguntas para entender mejor el tipo de perfume que deseas crear.
+               Te haremos una serie de preguntas para entender mejor el tipo de perfume que deseas crear.
               Con tus respuestas, diseñaremos una combinación única de ingredientes que refleje tu estilo y personalidad.</p>
             <img src="../assets/logo.png" alt="logo">
         </div>

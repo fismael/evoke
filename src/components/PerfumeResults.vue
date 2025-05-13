@@ -41,7 +41,17 @@ Incluye **notas de salida**, **notas medias** y **notas de fondo**.
 - **Notas de salida**: las primeras impresiones del perfume que se sienten al aplicar.
 - **Corazon**: el corazón del perfume, lo que permanece después de las notas de salida.
 - **Notas de fondo**: la base que queda después de que el perfume se ha asentado.
-
+a continuacion te voy a proporcionar las esencias que tenemos disponibles: 
+Esencia Aromatica de rosa
+Esencia Aromatica de Lavanda
+Esencia Aromatica de Manzana Verde 
+Esencia Aromatica de Limón 
+Esencia Aromatica de Cedro
+Esencia Aromatica de Sándalo
+Esencia Aromatica de Caramelo
+Esencia Aromatica de Menta
+Esencia Aromatica de Coco
+Esencia Aromatica de Patchouli 
 Recuerda dar una respuesta corta y concisa solo incluye las notas no digas nada mas
  y que las palabras sean mas usadas y conocidas en el espanol de Republica Dominicana.
 
