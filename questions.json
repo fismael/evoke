@@ -26,14 +26,14 @@
   {
     "key": "occasion",
     "question": "¿Qué tipo de ocasión quieres cubrir?",
-    "options": ["Diario", "Oficial/Formal", "Citas románticas", "Eventos especiales", "Vacaciones"],
+    "options": ["Diario", "Oficial/Formal", "Citas románticas", "Eventos especiales", "Fiestas"],
     "image": "images/occasion.png"
   },
   {
     "key": "notes",
     "question": "¿Qué tipos de aromas te gustan más?",
     "options": ["Cítricas", "Florales", "Amaderadas", "Orientales", "Dulces/Gourmand", "Verdes/Frescas", "Especiadas"],
-    "image": "images/notes.webp"
+    "image": "images/notes.png"
   },
   {
     "key": "intensity",
